@@ -1,0 +1,17 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(){
+    char curchar;
+    if (curchar = getchar() != EOF){
+        // This does not do what you expect.
+        // What you want is (curchar = getchar()) != EOF
+        // The above reads  curchar = (getchar != EOF)
+        // Which assigns an integer from the conditional to variable of type char
+
+        // Verification
+        printf("curchar %d\n", curchar);
+    } else {
+        printf("curchar %d\n", curchar);
+    }
+}

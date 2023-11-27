@@ -1,6 +1,6 @@
 **Abstract**
 
-WELCOME!! Oh my, look at you stumbling into my K\&R repository. This repository is dedicated to tracking my progress as I read through the ENTIRE K\&R textbook, you may be asking why what kind of sociopathic tendency is this?? Long story short is it's because I need to keep my mind busy, listen man, my sanity is on the line here, and I recently uninstalled every single video game on my phone and computer, thus making me a programming monk with not much else to do besides work a dead end job and go home to interact with a computer, cause god seems to have every other plan for me besides granting me a woman's embrace and comfort after a long day of working a job I don't particularly enjoy. Truthfuly, a sad existence indeed, but alas, in this repository, I make notes on and practice my C using the K\&R C bible second edition ANSI C. The plan is that if I can learn the ins and outs of  this majestic language, hopefully I may be able to teach it to other programmers. 
+WELCOME!! Oh my, look at you stumbling into my K\&R repository. This repository is dedicated to tracking my progress as I read through the ENTIRE K\&R textbook, you may be asking why what kind of sociopathic tendency is this?? Long story short is it's because I need to keep my mind busy.
 
 ![](https://lh7-us.googleusercontent.com/iwoJ0jc4mcR2MSAZ3r3CBaYEDVDPSR0UDMt8U68jO6hcBZSXZ2VRvmNbFB2-xtot-hVSswX1X4WUimHhpZP4lFFuMnlS2uI8TYvkTCdVych7uhdT_bQFYe49OwyUy-SGlLAkyaC2TKnz7j1lVgGo3Fc)
 
